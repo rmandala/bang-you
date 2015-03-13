@@ -1,0 +1,1 @@
+Multi-player online browser's version of Bang! game.
